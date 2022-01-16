@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BERT-Bi-LSTM-Bot-Recognition
+message: Please cite with this
+type: software
+authors:
+  - given-names: Pérez Gómez
+    name-particle: Alejo
+    email: alepe026@liu.student.se
