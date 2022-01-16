@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Perez Gomez"
+  given-names: "Alejo"
+  
+title: "Empirical Study for bot recognition Using BERT and BiLSTMs"
+version: 2.0.4
+
+date-released: 2022-1-15
+url: "https://github.com/alejo-perez-upc-77/BERT-Bi-LSTM-Bot-Recognition.git"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Perez Gomez"
+    given-names: "Alejo"
+  journal: "Linkopings Universitet"
