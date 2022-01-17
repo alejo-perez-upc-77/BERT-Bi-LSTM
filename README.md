@@ -1,5 +1,6 @@
 # BERT-Bi-LSTM-Bot-Recognition
 
+```bash
 ├───.ipynb_checkpoints
 ├───An-Empirical-study-on-Pre-trained-Embeddings-and-Language-Models-for-Bot-Detection [1], [2]
 │   └───dataset generation
@@ -13,6 +14,7 @@
 │   └───datasets_full
 │       └───ssb_tokenized
 └───text-preprocessing-techniques [3]
+```
 
 This work has borrowed preprocessing techniques and datasets from Garcia-Silva et al. [1], Gilani et al. [2] and Kamps et al. [3]. 
 
@@ -20,11 +22,13 @@ This work has borrowed preprocessing techniques and datasets from Garcia-Silva e
 
 The following folders contain experiments with all the datasets
 
+```bash
 BERT+BiLSTM_SSB 
 ├───BERT+BiLSTM_Scraped
 ├───BERT_SCRAPED
 ├───BERT_SSB
 ├───Baselines
+```
 
 **text-preprocessing-techniques** Contains a custom preprocessing from Kamps et al.
 
