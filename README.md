@@ -30,6 +30,13 @@ BERT+BiLSTM_SSB
 ├───Baselines
 ```
 
+## Abstract
+
+Pre-trained language models together with the finetuning practices have been experiencing a remarkable improvement at NLP tasks during the last years. These models are learnt from well-written text corpora that share characteristics of academical and literary grammar, syntax, and lexicon. Literary works, Wikipedia and News are a few examples of these. When it comes to Tweet Spambot Recognition, we must deal with a big drawback: the difficulty of leveraging the prior knowledge of language models when applied on data that belong to an especially different domain. Social media text, such as Twitter tweets, features many peculiarities (own memes, emojis, hashtags, “at” symbols, misspellings, grammar incorrectness, etc.).
+
+In order to explore how these language models generalize on these web data distributions, we explored some Deep Learning language model architectures to research how they perform at the tweet Spambot Classification task. We used a fine-tuning approach to test the classification performance of BERT, BiLSTMs, and other classic Machine Learning techniques at several tweet data datasets. Our results show several experiments that yielded satisfactory
+performance. Hence, further research is needed to exploit the text-level classification against the traditional meta-data techniques that spend a lot of time and computational resources.
+
 **text-preprocessing-techniques** Contains a custom preprocessing from Kamps et al.
 
 Utilites.py and Utilities2.py contain sampling and dataset generation scripts.
